@@ -33,7 +33,60 @@ In this project we will go through two project modules:
 ![Wireshark](https://img.shields.io/badge/Packet_Analysis-Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Bash Scripting](https://img.shields.io/badge/Automation-Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+## 🔎 Project Overview
+
+This project focuses on practical cybersecurity techniques, network traffic auditing, and password security analysis within an isolated lab environment. By leveraging John the Ripper (JTR) for password hash recovery and NetworkWalks tools this study demonstrates how vulnerabilities are identified, assessed, and mitigated in modern network infrastructure.
+
+---
+
 # PROJECT MODULE 1
 
 PASSWORD CRACKING WITH JTR
+
+## 🎯 Objectives
+
+Step 1: Download John the Ripper from official website on your windows PC.
+
+Step 2: Download Johnny GUI from official website.
+
+Step 3: Open PDF-HASH EXTRACTOR-INSTANTLY in the chrome and get the hash.
+
+Step 4: Save the hash using notepad.
+
+Step 5: Get the password of the pdf by uploading the hash file in the JTR.
+
+---
+
+### Step 1: 
+
+Use the link and download the John the Ripper from it's official side:
+
+```bash
+https://www.openwall.com/john/
+```
+
+OR
+
+```bash
+https://distro.ibiblio.org/openwall/projects/john/1.9.0/
+```
+
+OR
+
+you can download from Google Drive:
+
+```bash
+https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
+```
+
+### Step 2: 
+
+Download the Johnny GUI
+
+
+
+
+
+
+
 
