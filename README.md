@@ -59,7 +59,7 @@ Step 5: Get the password of the pdf by uploading the hash file in the JTR.
 
 ### Step 1: 
 
-Use the link and download the John the Ripper from it's official side:
+* Use the link and download the John the Ripper from it's official side:
 
 ```bash
 https://www.openwall.com/john/
@@ -79,9 +79,71 @@ you can download from Google Drive:
 https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
 ```
 
+<img width="640" height="368" alt="Screenshot 2026-09-22 112322" src="https://github.com/user-attachments/assets/67ee324f-3190-4c66-b037-2fbbd24a1aac" />
+
 ### Step 2: 
 
-Download the Johnny GUI
+* Download Johnny GUI from official website:
+
+```bash
+https://openwall.info/wiki/john/johnny
+```
+
+ OR
+ 
+ you can download from Google Drive:
+
+ ```bash
+https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
+```
+
+<img width="640" height="366" alt="Screenshot 2026-09-22 120425" src="https://github.com/user-attachments/assets/af09e131-1dc7-4869-b47a-859cccb37258" />
+
+* Run the setup file & install Johnny as shown in below:
+
+<img width="482" height="281" alt="Screenshot 2026-09-22 113451" src="https://github.com/user-attachments/assets/b8c75e6f-990f-4033-a267-54f04f4589c9" />
+
+<img width="448" height="343" alt="Screenshot 2026-09-22 113504" src="https://github.com/user-attachments/assets/7ce31438-ed5d-4ac8-950c-33d10038eafa" />
+
+<img width="476" height="349" alt="Screenshot 2026-09-22 113519" src="https://github.com/user-attachments/assets/4d512eae-7a50-477a-a211-edbe6d44059a" />
+
+* After installation, open Johnny and Click on settings & browse:
+
+<img width="476" height="292" alt="Screenshot 2026-09-22 201508" src="https://github.com/user-attachments/assets/3f2ae67c-e85a-4ccf-9590-883e8c6c876f" />
+
+### Step 3: 
+
+* Open the hash website & upload your pdf file to find its hash value:
+
+```bash
+https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
+```
+<img width="629" height="334" alt="Screenshot 2026-09-22 202000" src="https://github.com/user-attachments/assets/458d8b96-997a-4313-b52a-56a7c9566dbb" />
+
+* Select the file from browse , upload it and copy the hash value.
+
+<img width="638" height="376" alt="Screenshot 2026-09-22 121108" src="https://github.com/user-attachments/assets/55633dad-9939-49b1-adfd-ae4897cdaa32" />
+
+   <img width="640" height="377" alt="Screenshot 2026-09-22 194041" src="https://github.com/user-attachments/assets/12f797eb-6ff0-4a43-9bd7-40b9d40c044e" />
+
+### Step 4: 
+
+* Paste the hash value in the notepad and save it.
+
+
+
+
+
+### Step 5: 
+
+* Open Johnny and Click on ‘Open password file’, Browse the hash value file and upload it.
+
+
+
+* Put the password you get after uploading the file to open the Locked PDF.
+
+
+
 
 
 
