@@ -130,17 +130,74 @@ https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
 
 * Paste the hash value in the notepad and save it.
 
+<img width="476" height="269" alt="Screenshot 2026-09-22 194123" src="https://github.com/user-attachments/assets/e39623c4-fc8f-4c85-8dd5-86675b44cfff" />
 
-
-
+<img width="476" height="338" alt="Screenshot 2026-09-22 202647" src="https://github.com/user-attachments/assets/734307cf-d614-4ea6-906f-cb64570ab562" />
 
 ### Step 5: 
 
 * Open Johnny and Click on ‘Open password file’, Browse the hash value file and upload it.
 
+<img width="503" height="233" alt="Screenshot 2026-09-22 194226" src="https://github.com/user-attachments/assets/6d9c05a3-3c18-4207-99b4-5e7fc97eadec" />
 
+<img width="503" height="232" alt="Screenshot 2026-09-22 194250" src="https://github.com/user-attachments/assets/fe22d6dc-34f1-411b-9392-aa7628deab78" />
 
 * Put the password you get after uploading the file to open the Locked PDF.
+
+<img width="374" height="313" alt="Screenshot 2026-09-22 194517" src="https://github.com/user-attachments/assets/bd0f477d-baf4-4526-9ebb-e1cc6fe3c931" />
+
+<img width="409" height="313" alt="Screenshot 2026-09-22 194632" src="https://github.com/user-attachments/assets/d4d222a2-f615-4e66-8c7d-017fa4ce5f96" />
+
+---
+
+### Other Pdfs
+
+We can get the passwords of other pdfs too in the similar way.
+
+#### Locked PDF 1:
+
+* Get the hash value of the pdf by uploading it via browse option in the PDF hash Extractor - instantly. 
+
+
+* Then make a file of that hash value from Notepad.
+
+
+* Upload the hash value file in the Johnny GUI and get the password.
+
+
+* Use the password to unlock the pdf.
+
+
+#### Locked PDF 2: 
+
+* Get the hash value of the pdf by uploading it via browse option in the PDF hash Extractor - instantly. 
+<img width="629" height="333" alt="Screenshot 2026-09-22 210401" src="https://github.com/user-attachments/assets/a2459f51-fc7b-4954-8ca0-1f90c2ae11d3" />
+
+* Then make a file of that hash value from Notepad.
+<img width="473" height="327" alt="Screenshot 2026-09-22 210512" src="https://github.com/user-attachments/assets/15223582-130e-4c95-914e-76c56bbba493" />
+
+* Upload the hash value file in the Johnny GUI and get the password.
+<img width="473" height="287" alt="Screenshot 2026-09-22 211419" src="https://github.com/user-attachments/assets/b16e0a5d-5676-4d50-9ddd-992d5fb10b12" />
+
+* Use the password to unlock the pdf.
+<img width="632" height="317" alt="Screenshot 2026-09-22 211502" src="https://github.com/user-attachments/assets/bf4a9b07-dc57-4954-84df-76f1e91fa3fd" />
+
+#### Locked PDF 3: 
+
+* Get the hash value of the pdf by uploading it via browse option in the PDF hash Extractor - instantly. 
+<img width="635" height="333" alt="Screenshot 2026-09-22 211628" src="https://github.com/user-attachments/assets/d9524391-5d25-4260-9da5-471de09e5b46" />
+
+* Then make a file of that hash value from Notepad.
+<img width="475" height="329" alt="Screenshot 2026-09-22 211712" src="https://github.com/user-attachments/assets/0e875d7b-6478-412d-9add-178a2742b12c" />
+
+* Upload the hash value file in the Johnny GUI and get the password.
+<img width="638" height="374" alt="Screenshot 2026-09-22 211743" src="https://github.com/user-attachments/assets/e042f6f0-cc2c-465e-89d5-351d4b550cec" />
+
+* Use the password to unlock the pdf.
+<img width="410" height="314" alt="Screenshot 2026-09-22 211848" src="https://github.com/user-attachments/assets/7e47ccaa-bfa0-491f-8501-06b26c8cd3b9" />
+
+---
+
 
 
 
