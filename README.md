@@ -157,16 +157,16 @@ We can get the passwords of other pdfs too in the similar way.
 #### Locked PDF 1:
 
 * Get the hash value of the pdf by uploading it via browse option in the PDF hash Extractor - instantly. 
-
+<img width="640" height="377" alt="Screenshot 2026-09-22 194041" src="https://github.com/user-attachments/assets/36596fdc-7fb5-45b9-8ab5-416c99a7a38e" />
 
 * Then make a file of that hash value from Notepad.
-
+<img width="476" height="338" alt="Screenshot 2026-09-22 202647" src="https://github.com/user-attachments/assets/6d2be47f-9a4d-4cb8-98cc-77fd1c8554a4" />
 
 * Upload the hash value file in the Johnny GUI and get the password.
-
+<img width="473" height="287" alt="Screenshot 2026-09-22 211419" src="https://github.com/user-attachments/assets/6f26ada8-b483-43cf-9795-3e03018f0e81" />
 
 * Use the password to unlock the pdf.
-
+<img width="409" height="313" alt="Screenshot 2026-09-22 194632" src="https://github.com/user-attachments/assets/9a6c19b5-88cc-48c9-a83a-18b0cbaa3ad7" />
 
 #### Locked PDF 2: 
 
