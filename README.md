@@ -340,7 +340,7 @@ from that hash value. Both tools run in the web browser, so one do not need to i
 
 ## 🔗 Important Links & Resources
 
-### 1. Installation & Local Tools
+#### 1. Installation & Local Tools
 
 * **[Download John the Ripper (Official Website)](https://www.openwall.com/john/)** – Download the JTR password cracking tool binaries for Windows/Linux/macOS.
 
@@ -360,13 +360,13 @@ https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
 https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
 ```
 
-### 2. File Preparation & PDF Utilities
+#### 2. File Preparation & PDF Utilities
 
 * **[Sample Locked PDF Downloads](https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/)** – Resource to download sample target PDF files and lock/encrypt them with passwords for testing.
   
 * **[Instant Online PDF Hash Extractor](https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php)** – Extract hash signatures directly from password-protected PDF files in your browser.
 
-### 3. Networkwalks Web Applications
+#### 3. Networkwalks Web Applications
 
 * **[Networkwalks Hash Calculator](https://networkwalks.com/hash-calculator/)** – Access the browser-based Networkwalks Hash Calculator tool.
   
@@ -374,11 +374,17 @@ https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
 
 ---
 
+## 👤 Author
 
+NEHA
 
+Cybersecurity Intern B083
 
+LinkedIn: https://www.linkedin.com/in/neha-d-846342-nd
 
+## ♟️ Project Information
 
+Program Name: Cybersecurity at Networkwalks  Week:03 | Project: Password Cracking with JTR and NetworkWalks tools | Repository: GitHub
 
 
 
