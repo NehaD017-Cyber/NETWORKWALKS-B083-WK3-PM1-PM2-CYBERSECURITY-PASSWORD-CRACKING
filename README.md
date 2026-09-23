@@ -132,7 +132,8 @@ https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
 
 <img width="476" height="269" alt="Screenshot 2026-09-22 194123" src="https://github.com/user-attachments/assets/e39623c4-fc8f-4c85-8dd5-86675b44cfff" />
 
-<img width="476" height="338" alt="Screenshot 2026-09-22 202647" src="https://github.com/user-attachments/assets/734307cf-d614-4ea6-906f-cb64570ab562" />
+<img width="476" height="338" alt="paste hash 1" src="https://github.com/user-attachments/assets/f2abf182-d109-45ea-a6d0-8517e3a2d5a6" />
+
 
 ### Step 5: 
 
@@ -160,7 +161,7 @@ We can get the passwords of other pdfs too in the similar way.
 <img width="640" height="377" alt="Screenshot 2026-09-22 194041" src="https://github.com/user-attachments/assets/36596fdc-7fb5-45b9-8ab5-416c99a7a38e" />
 
 * Then make a file of that hash value from Notepad.
-<img width="476" height="338" alt="Screenshot 2026-09-22 202647" src="https://github.com/user-attachments/assets/6d2be47f-9a4d-4cb8-98cc-77fd1c8554a4" />
+<img width="476" height="338" alt="paste hash 1" src="https://github.com/user-attachments/assets/0f41d986-f4a9-465d-87d4-115f63d1a0c5" />
 
 * Upload the hash value file in the Johnny GUI and get the password.
 <img width="473" height="287" alt="Screenshot 2026-09-22 211419" src="https://github.com/user-attachments/assets/6f26ada8-b483-43cf-9795-3e03018f0e81" />
@@ -174,7 +175,8 @@ We can get the passwords of other pdfs too in the similar way.
 <img width="629" height="333" alt="Screenshot 2026-09-22 210401" src="https://github.com/user-attachments/assets/a2459f51-fc7b-4954-8ca0-1f90c2ae11d3" />
 
 * Then make a file of that hash value from Notepad.
-<img width="473" height="327" alt="Screenshot 2026-09-22 210512" src="https://github.com/user-attachments/assets/15223582-130e-4c95-914e-76c56bbba493" />
+<img width="473" height="327" alt="paste hash 2" src="https://github.com/user-attachments/assets/8c61bb4b-0811-4088-9839-c0c2691399ac" />
+
 
 * Upload the hash value file in the Johnny GUI and get the password.
 <img width="473" height="287" alt="Screenshot 2026-09-22 211419" src="https://github.com/user-attachments/assets/b16e0a5d-5676-4d50-9ddd-992d5fb10b12" />
@@ -188,7 +190,8 @@ We can get the passwords of other pdfs too in the similar way.
 <img width="635" height="333" alt="Screenshot 2026-09-22 211628" src="https://github.com/user-attachments/assets/d9524391-5d25-4260-9da5-471de09e5b46" />
 
 * Then make a file of that hash value from Notepad.
-<img width="475" height="329" alt="Screenshot 2026-09-22 211712" src="https://github.com/user-attachments/assets/0e875d7b-6478-412d-9add-178a2742b12c" />
+<img width="475" height="329" alt="paste hash 3" src="https://github.com/user-attachments/assets/2cd6f73b-bfaf-403e-a452-df4517c68e0f" />
+
 
 * Upload the hash value file in the Johnny GUI and get the password.
 <img width="638" height="374" alt="Screenshot 2026-09-22 211743" src="https://github.com/user-attachments/assets/e042f6f0-cc2c-465e-89d5-351d4b550cec" />
