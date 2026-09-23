@@ -101,11 +101,11 @@ https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
 
 * Run the setup file & install Johnny as shown in below:
 
-<img width="482" height="281" alt="Screenshot 2026-09-22 113451" src="https://github.com/user-attachments/assets/b8c75e6f-990f-4033-a267-54f04f4589c9" />
+<img width="482" height="281" alt="new run the setup 1" src="https://github.com/user-attachments/assets/b2b7f06e-6ba4-4449-b6af-6cc95d525377" />
 
-<img width="448" height="343" alt="Screenshot 2026-09-22 113504" src="https://github.com/user-attachments/assets/7ce31438-ed5d-4ac8-950c-33d10038eafa" />
+<img width="448" height="343" alt="run the setup 2" src="https://github.com/user-attachments/assets/53cd31cc-82c9-47ce-93c4-f5e61e5e3bb4" />
 
-<img width="476" height="349" alt="Screenshot 2026-09-22 113519" src="https://github.com/user-attachments/assets/4d512eae-7a50-477a-a211-edbe6d44059a" />
+<img width="476" height="349" alt="run the setup 3" src="https://github.com/user-attachments/assets/dad0a632-711a-405a-b64c-dbb2e02bede9" />
 
 * After installation, open Johnny and Click on settings & browse:
 
