@@ -198,6 +198,20 @@ We can get the passwords of other pdfs too in the similar way.
 
 ---
 
+## 🎓 What I Learned
+
+John the Ripper (JTR) and Johnny GUI are primary security tools used for password cracking and security auditing:
+
+* John the Ripper (JTR):
+
+A powerful, command-line password cracking tool designed to detect weak or compromised passwords. It tests hashed and encrypted passwords against dictionary attacks, brute-force attacks, and custom mask/rule sets. Security professionals and system administrators use it to audit password strength and enforce robust security policies.
+
+* Johnny GUI:
+
+  An open-source Graphical User Interface (GUI) for John the Ripper. Because JTR operates entirely via terminal commands—which can have a steep learning curve—Johnny provides an intuitive, user-friendly interface. It allows users to run JTR sessions, configure attack modes, and manage hash lists using visual buttons and menus without needing to type complex command-line syntax.
+
+  ---
+  
 # Project Module 2
 
 Password cracking with NetworkWalks tools.
@@ -217,15 +231,20 @@ Step 2: Crack the password od pdf with Networkwalks Password Cracker.
 ```bash
 https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
 ```
+<img width="629" height="334" alt="Screenshot 2026-09-23 093530" src="https://github.com/user-attachments/assets/c17f30ae-1edc-4a9b-bb36-4eddc802b75d" />
 
 * Open the Networkwalks Hash Calculator in your web browser:
 
 ```bash
 https://networkwalks.com/hash-calculator/
 ```
+<img width="631" height="334" alt="Screenshot 2026-09-23 093052" src="https://github.com/user-attachments/assets/9f4d7bcb-6823-4f42-ba4e-e0811fab0ff1" />
 
 * Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash
 value that starts with $pdf$..., copy the full hash value.
+<img width="638" height="334" alt="Screenshot 2026-09-23 093148" src="https://github.com/user-attachments/assets/a9b1e7dc-4065-4b38-8f3b-a708566c32b1" />
+
+<img width="625" height="335" alt="Screenshot 2026-09-23 093215" src="https://github.com/user-attachments/assets/f0a89ee0-f2cb-454a-bc33-2e988f83d7f1" />
 
 ### Step 2: 
 
@@ -234,10 +253,15 @@ value that starts with $pdf$..., copy the full hash value.
 ```bash
 https://networkwalks.com/password-cracker/
 ```
+<img width="627" height="332" alt="Screenshot 2026-09-23 093242" src="https://github.com/user-attachments/assets/27410475-acee-4a75-abd9-934eceee959d" />
 
 * Paste the hash value into the Password Cracker and start the attack. Wait for the tool to finish. The cracked password will be shown on the screen.
+<img width="626" height="334" alt="Screenshot 2026-09-23 093309" src="https://github.com/user-attachments/assets/7914328a-5d0f-4f3b-8eab-a2409b400c56" />
 
 * Open the locked PDF file and enter the cracked password.
+<img width="626" height="332" alt="Screenshot 2026-09-23 093335" src="https://github.com/user-attachments/assets/3c297615-f732-418f-b83c-99780b115874" />
+
+<img width="409" height="313" alt="Screenshot 2026-09-22 194632" src="https://github.com/user-attachments/assets/2f4e6417-89bf-4c33-8f34-230d1e160d02" />
 
 ---
 
@@ -246,28 +270,115 @@ https://networkwalks.com/password-cracker/
 #### Locked PDF 1:
 
 * Get the hash value from Networkwalks Hash Calculator.
+<img width="625" height="335" alt="Screenshot 2026-09-23 093215" src="https://github.com/user-attachments/assets/07bb35ed-5840-4b17-a129-32e0a808542b" />
 
 * Paste the hash value into the Password Cracker and start the attack to crack password.
+<img width="626" height="332" alt="Screenshot 2026-09-23 093335" src="https://github.com/user-attachments/assets/b4f5d733-b634-426d-ade8-ee3991b5f813" />
 
 * Use the cracked password to oprn the locked pdf.
+<img width="409" height="313" alt="Screenshot 2026-09-22 194632" src="https://github.com/user-attachments/assets/c1e9a5eb-7182-4440-997f-6cba592b3053" />
 
 #### Locked PDF 2: 
 
 * Get the hash value from Networkwalks Hash Calculator.
+<img width="628" height="331" alt="Screenshot 2026-09-23 093913" src="https://github.com/user-attachments/assets/d200e8a1-93bb-4f07-a169-8c681b0f708a" />
 
 * Paste the hash value into the Password Cracker and start the attack to crack password.
+<img width="626" height="335" alt="Screenshot 2026-09-23 094023" src="https://github.com/user-attachments/assets/d0078d6e-06be-4055-a3c0-f0f8f1bb9efa" />
 
 * Use the cracked password to oprn the locked pdf.
+<img width="632" height="317" alt="Screenshot 2026-09-22 211502" src="https://github.com/user-attachments/assets/a0822b28-1fc8-4733-93ed-33e184b71879" />
 
 #### Locked PDF 3:
 
 * Get the hash value from Networkwalks Hash Calculator.
+<img width="626" height="337" alt="Screenshot 2026-09-23 094117" src="https://github.com/user-attachments/assets/fdc194c5-0668-4467-bd1d-b62af726bea1" />
 
 * Paste the hash value into the Password Cracker and start the attack to crack password.
+<img width="628" height="329" alt="Screenshot 2026-09-23 094154" src="https://github.com/user-attachments/assets/43b3671b-3be2-4253-80b5-416d4da5a6f6" />
 
 * Use the cracked password to oprn the locked pdf.
+<img width="410" height="314" alt="Screenshot 2026-09-22 211848" src="https://github.com/user-attachments/assets/7619a8bd-d2cb-48ae-8102-4148b243017a" />
 
 ---
+
+## 🎓 What I Learned 
+
+* Password cracking is the process of recovering a password from stored data or a protected file. Security
+professionals use it to test how strong a password is and to show why weak passwords are risky. If a
+password is short or common, it can be found quickly, which proves the need for strong passwords.
+
+* Many files like PDF, ZIP, and Office documents can be locked with a password. When a file is locked, its
+password is stored in the form of a hash. A hash is a scrambled value that represents the password. To
+recover the password, we first take out this hash from the file, and then run it through a cracking tool that
+tries different words until it finds a match.
+
+* In this module we used two free online tools made by Networkwalks. First we used the Hash Calculator
+to take the hash out of a locked PDF file. Then we will use the Password Cracker to find the real password
+from that hash value. Both tools run in the web browser, so one do not need to install anything.
+
+---
+
+## 🏹 Tools and Resources 
+
+### 1. Password Cracking Frameworks
+
+* **John the Ripper (JTR):** A powerful command-line password cracking tool used for security auditing and password recovery. It tests hashed passwords against dictionary lists, brute-force patterns, and rule sets to uncover weak passwords.
+  
+* **Johnny GUI:** An open-source Graphical User Interface (GUI) wrapper for John the Ripper. It simplifies the JTR workflow by providing a visual interface to manage hash files, configure attack parameters, and monitor cracking sessions without running raw terminal commands.
+
+### 2. Networkwalks Online Security Tools
+
+* **Networkwalks Hash Calculator:** A web-based utility used during initial target preparation to extract and generate password hash values directly from protected files (such as password-locked PDFs and archives).
+  
+* **Networkwalks Password Cracker:** A lightweight, browser-based online cracking tool designed to process extracted hash strings and test wordlists to recover original plaintext passwords.
+
+---
+
+## 🔗 Important Links & Resources
+
+### 1. Installation & Local Tools
+
+* **[Download John the Ripper (Official Website)](https://www.openwall.com/john/)** – Download the JTR password cracking tool binaries for Windows/Linux/macOS.
+
+```bash
+https://distro.ibiblio.org/openwall/projects/john/1.9.0/
+```
+* You can download from Google Drive:
+  
+```bash
+https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
+```
+
+* **[Download Johnny GUI (Official Page)](https://openwall.info/wiki/john/johnny)** – Download the graphical user interface wrapper for John the Ripper.
+
+* You can download from Google Drive:
+ ```bash
+https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
+```
+
+### 2. File Preparation & PDF Utilities
+
+* **[Sample Locked PDF Downloads](https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/)** – Resource to download sample target PDF files and lock/encrypt them with passwords for testing.
+  
+* **[Instant Online PDF Hash Extractor](https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php)** – Extract hash signatures directly from password-protected PDF files in your browser.
+
+### 3. Networkwalks Web Applications
+
+* **[Networkwalks Hash Calculator](https://networkwalks.com/hash-calculator/)** – Access the browser-based Networkwalks Hash Calculator tool.
+  
+* **[Networkwalks Password Cracker](https://networkwalks.com/password-cracker/)** – Access the browser-based Networkwalks Password Cracker tool.
+
+---
+
+
+
+
+
+
+
+
+
 
 
 
