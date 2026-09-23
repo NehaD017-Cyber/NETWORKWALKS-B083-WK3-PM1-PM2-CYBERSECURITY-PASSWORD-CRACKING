@@ -198,7 +198,76 @@ We can get the passwords of other pdfs too in the similar way.
 
 ---
 
+# Project Module 2
 
+Password cracking with NetworkWalks tools.
+
+## 🎯 Objectives
+
+Step 1: Get the hash value from Networkwalks Hash Calculator.
+
+Step 2: Crack the password od pdf with Networkwalks Password Cracker.
+
+---
+
+### Step 1: 
+
+* Download the encrypted PDF file (My Locked PDF1.pdf) to your laptop from the lab page:
+
+```bash
+https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
+```
+
+* Open the Networkwalks Hash Calculator in your web browser:
+
+```bash
+https://networkwalks.com/hash-calculator/
+```
+
+* Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash
+value that starts with $pdf$..., copy the full hash value.
+
+### Step 2: 
+
+* Open the Networkwalks Password Cracker in your web browser:
+
+```bash
+https://networkwalks.com/password-cracker/
+```
+
+* Paste the hash value into the Password Cracker and start the attack. Wait for the tool to finish. The cracked password will be shown on the screen.
+
+* Open the locked PDF file and enter the cracked password.
+
+---
+
+### Other PDFs
+
+#### Locked PDF 1:
+
+* Get the hash value from Networkwalks Hash Calculator.
+
+* Paste the hash value into the Password Cracker and start the attack to crack password.
+
+* Use the cracked password to oprn the locked pdf.
+
+#### Locked PDF 2: 
+
+* Get the hash value from Networkwalks Hash Calculator.
+
+* Paste the hash value into the Password Cracker and start the attack to crack password.
+
+* Use the cracked password to oprn the locked pdf.
+
+#### Locked PDF 3:
+
+* Get the hash value from Networkwalks Hash Calculator.
+
+* Paste the hash value into the Password Cracker and start the attack to crack password.
+
+* Use the cracked password to oprn the locked pdf.
+
+---
 
 
 
