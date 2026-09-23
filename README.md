@@ -278,7 +278,7 @@ https://networkwalks.com/password-cracker/
 * Paste the hash value into the Password Cracker and start the attack to crack password.
 <img width="626" height="332" alt="Screenshot 2026-09-23 093335" src="https://github.com/user-attachments/assets/b4f5d733-b634-426d-ade8-ee3991b5f813" />
 
-* Use the cracked password to oprn the locked pdf.
+* Use the cracked password to open the locked pdf.
 <img width="409" height="313" alt="Screenshot 2026-09-22 194632" src="https://github.com/user-attachments/assets/c1e9a5eb-7182-4440-997f-6cba592b3053" />
 
 #### Locked PDF 2: 
@@ -289,7 +289,7 @@ https://networkwalks.com/password-cracker/
 * Paste the hash value into the Password Cracker and start the attack to crack password.
 <img width="626" height="335" alt="Screenshot 2026-09-23 094023" src="https://github.com/user-attachments/assets/d0078d6e-06be-4055-a3c0-f0f8f1bb9efa" />
 
-* Use the cracked password to oprn the locked pdf.
+* Use the cracked password to open the locked pdf.
 <img width="632" height="317" alt="Screenshot 2026-09-22 211502" src="https://github.com/user-attachments/assets/a0822b28-1fc8-4733-93ed-33e184b71879" />
 
 #### Locked PDF 3:
@@ -300,7 +300,7 @@ https://networkwalks.com/password-cracker/
 * Paste the hash value into the Password Cracker and start the attack to crack password.
 <img width="628" height="329" alt="Screenshot 2026-09-23 094154" src="https://github.com/user-attachments/assets/43b3671b-3be2-4253-80b5-416d4da5a6f6" />
 
-* Use the cracked password to oprn the locked pdf.
+* Use the cracked password to open the locked pdf.
 <img width="410" height="314" alt="Screenshot 2026-09-22 211848" src="https://github.com/user-attachments/assets/7619a8bd-d2cb-48ae-8102-4148b243017a" />
 
 ---
@@ -335,6 +335,16 @@ from that hash value. Both tools run in the web browser, so one do not need to i
 * **Networkwalks Hash Calculator:** A web-based utility used during initial target preparation to extract and generate password hash values directly from protected files (such as password-locked PDFs and archives).
   
 * **Networkwalks Password Cracker:** A lightweight, browser-based online cracking tool designed to process extracted hash strings and test wordlists to recover original plaintext passwords.
+
+---
+
+## ✍️ Key Takeaway: Password Complexity vs. Cracking Viability
+
+* **Weak Passwords:**
+  Easily recovered via dictionary or basic mask attacks regardless of the file format.
+  
+* **Strong Passwords & AES-256:**
+  When modern AES-256 encryption is paired with a high-entropy password (15+ random mixed characters), recovering the file via brute-force becomes computationally infeasible with standard hardware.
 
 ---
 
